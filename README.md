@@ -147,16 +147,16 @@ By the end of this project, you should be able to:
 ### Resources
 - **Books**:
   - ["Introduction to Algorithms" by Cormen, Leiserson, Rivest, and Stein](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)
-  - ["Data Structures and Algorithm Analysis" by Mark Allen Weiss](https://www.pearson.c|.py|.cppom/store/p/data-structures-and-algorithm-analysis-in-c-/P100000161453)
-  - ["Cracking the coding interview" by GAYLE LAAKMANN](https://drive.google.com/file/d/1HlKvNPzeixl8TAgkGYLGxM8WdH_Y7UMr/view?usp=sharing)
+  - ["Data Structures and Algorithm Analysis" by Mark Allen Weiss](https://www.pearson.com/store/p/data-structures-and-algorithm-analysis-in-c-/P100000161453)
+    - ["Cracking the coding interview" by GAYLE LAAKMANN](https://drive.google.com/file/d/1HlKvNPzeixl8TAgkGYLGxM8WdH_Y7UMr/view?usp=sharing)
 
 - **Online Courses**:
-  - [Coursera](https://www.c|.py|.cppoursera.org/)
+  - [Coursera](https://www.coursera.org/)
   - [edX](https://www.edx.org/)
-  - [Udacity](https://www.udacity.c|.py|.cppom/)
+  - [Udacity](https://www.udacity.com/)
 
 - **Coding Practice**:
-  - [LeetCode](https://www.leetcode.c|.py|.cppom)
-  - [HackerRank](https://www.hackerrank.c|.py|.cppom)
-  - [CodeSignal](https://www.c|.py|.cppodesignal.c|.py|.cppom)
-  - [Codewars](https://www.c|.py|.cppodewars.c|.py|.cppom)
+  - [LeetCode](https://www.leetcode.com)
+  - [HackerRank](https://www.hackerrank.com)
+  - [CodeSignal](https://www.codesignal.com)
+  - [Codewars](https://www.codewars.com)
