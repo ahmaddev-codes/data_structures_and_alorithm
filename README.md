@@ -1,15 +1,16 @@
 ## Data Structures and Algorithm
-Data structures and algorithms are essential concepts in computer science and software engineering. They provide a way to store and organize data efficiently, as well as solve complex computational problems. Understanding data structures and algorithms is crucial for developing efficient software applications, writing optimized code, and passing technical interviews. This project will help you learn and implement various data structures and algorithms using Python, javascript, C and C++. You will explore different types of data structures such as arrays, linked lists, stacks, queues, trees, graphs, and hash tables, and also study fundamental algorithms including sorting, searching, dynamic programming, greedy algorithms, and graph algorithms. By the end of this project, you will have a strong foundation in data structures and algorithms, which will help you solve real-world problems and excel in competitive programming and technical interviews.
+![data structures and algorithm](./docs/Cracking-the-Coding-Interview-PDF-Free-Download.png)
+[You can download the book here for inspiration and technical guidance](/docs/Cracking%20the%20Coding%20Interview%206th%20Edition.pdf)
 
+Data structures and algorithms are essential concepts in computer science and software engineering. They provide a way to store and organize data efficiently, as well as solve complex computational problems. Understanding data structures and algorithms is crucial for developing efficient software applications, writing optimized code, and passing technical interviews. This project will help you learn and implement various data structures and algorithms using Python, Javascript, C and C++. You will explore different types of data structures such as arrays, linked lists, stacks, queues, trees, graphs, and hash tables, and also study fundamental algorithms including sorting, searching, dynamic programming, greedy algorithms, and graph algorithms. By the end of this project, you will have a strong foundation in data structures and algorithms, which will help you solve real-world problems and excel in competitive programming and technical interviews.
 
 ### Repository Structure
-
 ```txt
 data-structures-and-algorithms/
 ├── README.md
 ├── src/
 │   ├── arrays/
-│   │   ├── array_operations.c|.py|.cpp/
+│   │   ├── array_operations.c|.py|.cpp
 │   │   └── array_operations_test.c|.py|.cpp
 │   ├── linked_lists/
 │   │   ├── linked_list.c|.py|.cpp
@@ -147,6 +148,7 @@ By the end of this project, you should be able to:
 - **Books**:
   - ["Introduction to Algorithms" by Cormen, Leiserson, Rivest, and Stein](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)
   - ["Data Structures and Algorithm Analysis" by Mark Allen Weiss](https://www.pearson.c|.py|.cppom/store/p/data-structures-and-algorithm-analysis-in-c-/P100000161453)
+  - ["Cracking the coding interview" by GAYLE LAAKMANN](https://drive.google.com/file/d/1HlKvNPzeixl8TAgkGYLGxM8WdH_Y7UMr/view?usp=sharing)
 
 - **Online Courses**:
   - [Coursera](https://www.c|.py|.cppoursera.org/)
