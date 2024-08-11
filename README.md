@@ -61,17 +61,16 @@ data-structures-and-algorithms/
 │   ├── data_structures.md
 │   ├── algorithms.md
 │   └── complexity_analysis.md
-├── tests/
-│   ├── test_arrays.c|.py|.cpp
-│   ├── test_linked_lists.c|.py|.cpp
-│   ├── test_stacks_queues.c|.py|.cpp
-│   ├── test_hash_tables.c|.py|.cpp
-│   ├── test_trees.c|.py|.cpp
-│   ├── test_graphs.c|.py|.cpp
-│   ├── test_sorting_searching.c|.py|.cpp
-│   ├── test_advanced_algorithms.c|.py|.cpp
-│   └── test_complexity_analysis.c|.py|.cpp
-└── requirements.txt
+└── tests/
+    ├── test_arrays.c|.py|.cpp
+    ├── test_linked_lists.c|.py|.cpp
+    ├── test_stacks_queues.c|.py|.cpp
+    ├── test_hash_tables.c|.py|.cpp
+    ├── test_trees.c|.py|.cpp
+    ├── test_graphs.c|.py|.cpp
+    ├── test_sorting_searching.c|.py|.cpp
+    ├── test_advanced_algorithms.c|.py|.cpp
+    └──── test_complexity_analysis.c|.py|.cpp
 ```
 - **README.md**: Project overview and documentation.
 - **src/**: Source code for data structures and algorithms.
@@ -86,7 +85,6 @@ data-structures-and-algorithms/
   - **complexity_analysis/**: Documentation on complexity analysis.
 - **docs/**: Additional documentation for the project.
 - **tests/**: Unit tests for all data structures and algorithms.
-- **requirements.txt**: List of dependencies required for the project.
 
 ### Objectives
 1. **Understand Basic Data Structures**: Learn about arrays, linked lists, stacks, queues, hash tables, trees, graphs, and more.
