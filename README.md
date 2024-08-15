@@ -10,8 +10,8 @@ data-structures-and-algorithms/
 ├── README.md
 ├── src/
 │   ├── arrays/
-│   │   ├── array_operations.c|.py|.cpp
-│   │   └── array_operations_test.c|.py|.cpp
+│   │   ├── array.c|.py|.cpp
+│   │   └── array_test.c|.py|.cpp
 │   ├── linked_lists/
 │   │   ├── linked_list.c|.py|.cpp
 │   │   └── linked_list_test.c|.py|.cpp
