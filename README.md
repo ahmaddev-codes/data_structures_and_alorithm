@@ -146,7 +146,7 @@ By the end of this project, you should be able to:
 - **Books**:
   - ["Introduction to Algorithms" by Cormen, Leiserson, Rivest, and Stein](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)
   - ["Data Structures and Algorithm Analysis" by Mark Allen Weiss](https://www.pearson.com/store/p/data-structures-and-algorithm-analysis-in-c-/P100000161453)
-    - ["Cracking the coding interview" by GAYLE LAAKMANN](https://drive.google.com/file/d/1HlKvNPzeixl8TAgkGYLGxM8WdH_Y7UMr/view?usp=sharing)
+  - ["Cracking the coding interview" by GAYLE LAAKMANN](https://drive.google.com/file/d/1HlKvNPzeixl8TAgkGYLGxM8WdH_Y7UMr/view?usp=sharing)
 
 - **Online Courses**:
   - [Coursera](https://www.coursera.org/)
